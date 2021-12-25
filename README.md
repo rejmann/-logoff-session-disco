@@ -1,0 +1,1 @@
+Realiza logoff das sessões TS desconectadas com Power Shell
